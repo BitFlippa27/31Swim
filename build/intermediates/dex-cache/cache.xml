@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/c713a0c1a70c6b303edcfadd048a36deab29ad71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_3aa91a0ad5e373500ddbf55c38a5466a414d8310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/96b007f85bec4f1b0ae485c302e5f5729f1815e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_baae1b38f3c483ba0703b14a9229d5c7b7dfda09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_da44de0243ba7ec7b33824fc711cb7cdb3c00aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/15fec0aef3bc2a4c8de9405720f0c314e2c905ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_aa920baebe93397cfb783a989cdd3bab319f891a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_14191fd93ad1139097a429202b464e360b477cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/97141c646c274fbd95f04ae4e5f4a5660ccd2c1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_91beaf19fbc935ac5f18abcc7c80f8bae3246979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/80708666f1f5f924c053a2363a27d52531d68ec2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_d97c9f69f9624fa023cf4804067bada2aafe2822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_b45cbe92f0ce1ff7b4476d4fa8d6c3aad92ab5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/5de663cf81c0d2930e519ac2f3e6ffaba0c3edcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_63616c3909f8ffa8db622df7cc6ec5b459c5a33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_2cb07dda1aac5091b03d54abfcd7a76bcaef3225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/227c8e7f11bb970a29cc015cc23f5f883a2af039/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_72a1ea03db17e99a6d2138d9ffd5312e12cb8dfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_d15390e8e3c7c450960e66f10036c63487a8692f.jar" />
+    </item>
+
+</items>

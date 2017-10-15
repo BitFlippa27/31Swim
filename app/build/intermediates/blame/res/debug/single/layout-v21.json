@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/res/layout-v21/notification_action.xml"
+    }
+]
