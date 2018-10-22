@@ -101,6 +101,24 @@
         <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/pre-dexed/debug/classes_72a1ea03db17e99a6d2138d9ffd5312e12cb8dfd.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0ff0b03ae27dba89a1a8798babccc7b02d77f26">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_371d263b3d76e6f26999232540ca13000fe6d0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_632586c93562177fea629b2ceaa31d15d04c4eaa/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/jars/classes.jar"
         jumboMode="false"

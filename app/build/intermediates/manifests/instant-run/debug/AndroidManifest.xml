@@ -26,6 +26,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.dennis.a31.Spieleranzahl" />
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

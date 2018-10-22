@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml
@@ -14,17 +14,17 @@ ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:
 		INJECTED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Dennis/.android/build-cache/96b007f85bec4f1b0ae485c302e5f5729f1815e9/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /Users/Dennis/.android/build-cache/c713a0c1a70c6b303edcfadd048a36deab29ad71/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/Dennis/.android/build-cache/80708666f1f5f924c053a2363a27d52531d68ec2/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Dennis/.android/build-cache/5de663cf81c0d2930e519ac2f3e6ffaba0c3edcb/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Dennis/.android/build-cache/15fec0aef3bc2a4c8de9405720f0c314e2c905ab/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Dennis/.android/build-cache/97141c646c274fbd95f04ae4e5f4a5660ccd2c1b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/Dennis/.android/build-cache/227c8e7f11bb970a29cc015cc23f5f883a2af039/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Dennis/.android/build-cache/96b007f85bec4f1b0ae485c302e5f5729f1815e9/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -51,18 +51,22 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.dennis.a31.Spieleranzahl
+ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml:19:19-48
 uses-sdk
 INJECTED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Dennis/.android/build-cache/96b007f85bec4f1b0ae485c302e5f5729f1815e9/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:support-v4:25.3.1] /Users/Dennis/.android/build-cache/c713a0c1a70c6b303edcfadd048a36deab29ad71/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/Dennis/.android/build-cache/80708666f1f5f924c053a2363a27d52531d68ec2/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Dennis/.android/build-cache/5de663cf81c0d2930e519ac2f3e6ffaba0c3edcb/output/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Dennis/.android/build-cache/15fec0aef3bc2a4c8de9405720f0c314e2c905ab/output/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Dennis/.android/build-cache/97141c646c274fbd95f04ae4e5f4a5660ccd2c1b/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] /Users/Dennis/.android/build-cache/227c8e7f11bb970a29cc015cc23f5f883a2af039/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Dennis/.android/build-cache/96b007f85bec4f1b0ae485c302e5f5729f1815e9/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -73,13 +77,13 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Denn
 		INJECTED from /Users/Dennis/Desktop/AI/MobaGit/31/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/Dennis/.android/build-cache/c713a0c1a70c6b303edcfadd048a36deab29ad71/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/Dennis/.android/build-cache/80708666f1f5f924c053a2363a27d52531d68ec2/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Dennis/.android/build-cache/5de663cf81c0d2930e519ac2f3e6ffaba0c3edcb/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Dennis/.android/build-cache/15fec0aef3bc2a4c8de9405720f0c314e2c905ab/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Dennis/.android/build-cache/97141c646c274fbd95f04ae4e5f4a5660ccd2c1b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/02f85e3ccd614bf95a6c90a0193e9ce05d655672/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Dennis/.android/build-cache/7a7d885e3471fd80e12f404d1d66ea8071b62ee1/output/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-compat:25.3.1] /Users/Dennis/.android/build-cache/227c8e7f11bb970a29cc015cc23f5f883a2af039/output/AndroidManifest.xml:25:5-27:34
 	android:value
 		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Dennis/.android/build-cache/cce0cdd64e30bfd559f6aa973b17a9126cd362a6/output/AndroidManifest.xml:27:9-31

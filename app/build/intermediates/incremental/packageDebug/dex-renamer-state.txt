@@ -1,4 +1,7 @@
-#Sun Oct 15 14:27:06 CEST 2017
-base.0=/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Feb 15 16:36:23 CET 2018
+base.0=/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_632586c93562177fea629b2ceaa31d15d04c4eaa
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_371d263b3d76e6f26999232540ca13000fe6d0d5/classes.dex
+base.1=/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_371d263b3d76e6f26999232540ca13000fe6d0d5
+file.0=/Users/Dennis/Desktop/AI/MobaGit/31/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_632586c93562177fea629b2ceaa31d15d04c4eaa/classes.dex
